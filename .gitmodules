@@ -1,0 +1,3 @@
+[submodule "Assets/_Game/Scripts/Utility/ScriptSmith"]
+	path = Assets/_Game/Scripts/Utility/ScriptSmith
+	url = https://github.com/Saihar1sh/ScriptSmith.git
