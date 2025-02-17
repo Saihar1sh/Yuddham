@@ -15,8 +15,19 @@ namespace Yuddham
         public int attack;
         public int health;
         public int range;
-        public CardController cardPrefab;
         public PlacableTroopController placableTroopPrefab;
+
+        public CardData(string cardName, TroopAttackType cardType, Sprite cardSprite, int cost, int attack, int health, int range, PlacableTroopController placableTroopPrefab)
+        {
+            this.cardName = cardName;
+            this.cardType = cardType;
+            this.cardSprite = cardSprite;
+            this.cost = cost;
+            this.attack = attack;
+            this.health = health;
+            this.range = range;
+            this.placableTroopPrefab = placableTroopPrefab;
+        }
     }
 
     [Flags]
