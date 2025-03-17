@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Yuddham
 {
-    public class CardClickEvent : GameEventData
+    public class CardClickEvent : IGameEventData
     {
         public CardController cardController;
 
@@ -15,7 +15,7 @@ namespace Yuddham
         }
     }
     
-    public class CardDragEvent : GameEventData
+    public class CardDragEvent : IGameEventData
     {
         public CardController cardController;
 
