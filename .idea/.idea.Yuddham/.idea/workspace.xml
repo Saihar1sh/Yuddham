@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbd5fb34-5acb-4ea8-a516-e5c6f0d2c317" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Yuddham/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Yuddham/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Prefabs/Card.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Prefabs/Card.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/Prototype.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/Prototype.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/Utility/ScriptSmith" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/Utility/ScriptSmith" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/CardController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/CardController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/CardManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/CardManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/ScriptableObjects/CardData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/ScriptableObjects/CardData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/GameData.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/GameData.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/GameData/BruteSoldier.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/GameData/BruteSoldier.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Materials/Bridge Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Materials/Bridge Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Materials/Grass ground Material.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Materials/Grass ground Material.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/BridgeCube.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/BridgeCube.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/Card.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/Card.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/GroundCube.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Prefabs/GroundCube.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scenes/Prototype.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scenes/Prototype.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/Utility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/Utility.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/CardController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/CardController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/CardManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/CardManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/Events.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/Events.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/Events/GameEvents.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/Events/GameEvents.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/GridManager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/GridManager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/PlacableTroopController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/PlacableTroopController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/ScriptableObjects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/ScriptableObjects.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/ScriptableObjects/CardData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets/_Game/Scripts/_GamePlay/ScriptableObjects/CardData.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/Events/CardEvents.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scripts/_GamePlay/Events/CardEvents.cs.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +122,7 @@
       <updated>1738939464706</updated>
       <workItem from="1738939471467" duration="17236000" />
       <workItem from="1739717413903" duration="4965000" />
+      <workItem from="1742225385610" duration="596000" />
     </task>
     <servers />
   </component>

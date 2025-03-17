@@ -11,7 +11,11 @@ namespace Yuddham
         [SerializeField] private Image _cardDisplayImage;
         [SerializeField] private CanvasGroup _visualsCanvasGroup;
 
-        private CardData _cardData;
+        [SerializeField] private Sprite defaultCardSprite;
+
+        private Vector3 _cardStartPosition;
+        
+        public CardData cardData { get; private set; }
 
         public RectTransform CardRectTransform { get; private set; }
         public int SiblingIndex { get; set; }
@@ -23,14 +27,20 @@ namespace Yuddham
 
         public void SetCardData(CardData cardData)
         {
-            _cardData = cardData;
-            _cardDisplayImage.sprite = cardData.cardSprite;
+            this.cardData = cardData;
+            _cardDisplayImage.sprite = cardData.cardSprite?? defaultCardSprite;
+            _cardStartPosition = transform.position;
         }
 
         public void SetCardState(bool isActive)
         {
-            _visualsCanvasGroup.alpha = isActive ? 1f : 0.5f;
-            
+            _visualsCanvasGroup.alpha = isActive ? 0.5f : 0;
+        }
+
+        public void ReturnToCardDashBoard()
+        {
+            LayoutRebuilder.ForceRebuildLayoutImmediate(CardRectTransform.parent as RectTransform);
+            _visualsCanvasGroup.alpha = 1;
         }
 
         #region Unity Callbacks
