@@ -170,8 +170,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 4196392352524719174}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2dd21c87fcf232740afec97f3adaf8ae, type: 3}
+  m_Script: {fileID: 11500000, guid: 4221df5148825b746b7cf61a1ada9838, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _cardDisplayImage: {fileID: 2149351013928099217}
   _visualsCanvasGroup: {fileID: 1957581516534097838}
+  defaultCardSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
