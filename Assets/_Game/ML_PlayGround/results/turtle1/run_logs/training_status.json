@@ -2,22 +2,22 @@
     "Turtle": {
         "checkpoints": [
             {
-                "steps": 3896,
-                "file_path": "results\\turtle1\\Turtle\\Turtle-3896.onnx",
-                "reward": -2.000000089406967,
-                "creation_time": 1742654258.8168292,
+                "steps": 385368,
+                "file_path": "results\\turtle1\\Turtle\\Turtle-385368.onnx",
+                "reward": -0.01400004637738069,
+                "creation_time": 1742658686.2292733,
                 "auxillary_file_paths": [
-                    "results\\turtle1\\Turtle\\Turtle-3896.pt"
+                    "results\\turtle1\\Turtle\\Turtle-385368.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 3896,
+            "steps": 385368,
             "file_path": "results\\turtle1\\Turtle.onnx",
-            "reward": -2.000000089406967,
-            "creation_time": 1742654258.8168292,
+            "reward": -0.01400004637738069,
+            "creation_time": 1742658686.2292733,
             "auxillary_file_paths": [
-                "results\\turtle1\\Turtle\\Turtle-3896.pt"
+                "results\\turtle1\\Turtle\\Turtle-385368.pt"
             ]
         }
     },

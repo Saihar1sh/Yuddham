@@ -948,8 +948,8 @@ MonoBehaviour:
   hasUpgradedFromAgentParameters: 1
   MaxStep: 5000
   _goal: {fileID: 365311784}
-  _moveSpeed: 0
-  _turnSpeed: 0
+  _moveSpeed: 1.5
+  _turnSpeed: 180
 --- !u!1 &673324343
 GameObject:
   m_ObjectHideFlags: 0
